@@ -12,5 +12,14 @@
 
 Refresh your page in Github and check if your files are already in there. 
 
+Note: Use 'git remove -v' to check if you've already add a brunch in you local. If you don't use 'git remote add origin (your https in the GitHub)' 
+
+How to delete a file in the Github but not delete it on local? 
+
+
+
+
+
+
 
 
