@@ -8,7 +8,7 @@
 
 5. Add comments using ' git commit -m "White Comments in here" '
 
-6. Last step using 'git push origin master' to upload your files. 
+6. Last step using 'git push origin master' to upload your files.  'master' is your brunch name. 
 
 Refresh your page in Github and check if your files are already in there. 
 
@@ -16,7 +16,11 @@ Note: Use 'git remove -v' to check if you've already add a brunch in you local. 
 
 How to delete a file in the Github but not delete it on local? 
 
+1. Run command 'git rm --cached file1.txt' 
 
+2. Run '  git commit -m 'remove this file'  '
+
+3. Run 'git push origin master'  
 
 
 
