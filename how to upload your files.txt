@@ -1,0 +1,16 @@
+1. Find the folder you need to upload. 
+
+2. start run got using 'git init'
+
+3. check the potential files in your local using 'git status'
+
+4. Add files using 'git add .'   means upload all files in you computer. 
+
+5. Add comments using ' git commit -m "White Comments in here" '
+
+6. Last step using 'git push origin master' to upload your files. 
+
+Refresh your page in Github and check if your files are already in there. 
+
+
+
